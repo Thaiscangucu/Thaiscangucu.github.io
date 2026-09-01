@@ -14,3 +14,10 @@ O **modelo de cores RGB** (*Red, Green, Blue*) é a base fundamental para a exib
 * 🎥 **Vídeo explicativo:** [Vídeo no YouTube](https://youtu.be/N1D6Lv6RYys)
 
 ---
+
+## 3. A História e o Funcionamento do Algoritmo de Detecção de Bordas de Canny
+Criado por John F. Canny em 1986, o detector de bordas de Canny é um dos algoritmos mais fundamentais e amplamente utilizados em computação visual. Ele identifica descontinuidades acentuadas de brilho em uma imagem para isolar contornos e estruturas relevantes, servindo como etapa inicial indispensável para tarefas como detecção de objetos, rastreamento e reconstrução 3D.
+
+* 📖 Leitura: [Artigo sobre o Detector de Bordas de Canny (Wikipédia)](https://pt.wikipedia.org/wiki/Detector_de_bordas_de_Canny)
+* 🎥 Vídeo explicativo: [Segmentação por bordas - Canny (YouTube)](https://www.youtube.com/watch?v=OsKz8YJ2jqE)
+
