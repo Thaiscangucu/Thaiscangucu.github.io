@@ -1,24 +1,24 @@
-# Thais Canguçu · Portfólio
+# Thais Canguçu · Portfolio
 
-Desenvolvedora iOS em formação pela **Apple Developer Academy | Mackenzie** e estudante de Ciência da Computação no Mackenzie.
+iOS developer in training at the **Apple Developer Academy | Mackenzie** and Computer Science student at Mackenzie University.
 
-🌐 **Acesse o site:** [thaiscangucu.github.io](https://thaiscangucu.github.io)
+🌐 **Visit the website:** [thaiscangucu.github.io](https://thaiscangucu.github.io)
 
-Crio apps para iPhone em Swift e SwiftUI, com foco em acessibilidade: **4 publicados na App Store** e 2 em testes no TestFlight.
+I build iPhone apps in Swift and SwiftUI with a focus on accessibility: **4 published on the App Store** and 2 in testing on TestFlight.
 
-## Destaques
-- **goDutch!**: divide a conta escaneando a nota fiscal com Apple Intelligence. Nota 5,0 na App Store.
-- **Kid Task**: inclui crianças com TEA na rotina da casa.
-- **Articula**: exercícios de fisioterapia com os sensores do iPhone.
-- **Moony**: ajuda crianças com hipersensibilidade sensorial a conhecerem sons novos.
+## Highlights
+- **goDutch!**: splits the bill by scanning the receipt with Apple Intelligence. Rated 5.0 on the App Store.
+- **Kid Task**: brings children with autism (ASD) into the household routine.
+- **Articula**: physical therapy exercises using the iPhone's motion sensors.
+- **Moony**: helps children with sensory hypersensitivity get familiar with new sounds.
 
 ## Links
 - [LinkedIn](https://www.linkedin.com/in/thaiscangucu/)
-- [Projetos da Apple Developer Academy](https://github.com/Thaiscangucu/Apple-Developer-Academy)
-- [Projetos em Python](https://github.com/Thaiscangucu/Python-Projects)
-- [Currículo (PDF)](Curriculo-Thais-Cangucu.pdf)
+- [Apple Developer Academy projects](https://github.com/Thaiscangucu/Apple-Developer-Academy)
+- [Python projects](https://github.com/Thaiscangucu/Python-Projects)
+- [Resume (PDF, in Portuguese)](Curriculo-Thais-Cangucu.pdf)
 
-## Sobre este repositório
-Este repositório hospeda o site do portfólio pelo GitHub Pages.
-- `index.html`: o site
-- `Curriculo-Thais-Cangucu.pdf`: o currículo
+## About this repository
+This repository hosts the portfolio website through GitHub Pages.
+- `index.html`: the website
+- `Curriculo-Thais-Cangucu.pdf`: the resume
