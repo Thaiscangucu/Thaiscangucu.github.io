@@ -16,7 +16,7 @@ I build iPhone apps in Swift and SwiftUI with a focus on accessibility: **4 publ
 - [LinkedIn](https://www.linkedin.com/in/thaiscangucu/)
 - [Apple Developer Academy projects](https://github.com/Thaiscangucu/Apple-Developer-Academy)
 - [Python projects](https://github.com/Thaiscangucu/Python-Projects)
-- [Resume (PDF, in Portuguese)](Curriculo-Thais-Cangucu.pdf)
+- [Resume (PDF)](Curriculo-Thais-Cangucu.pdf)
 
 ## About this repository
 This repository hosts the portfolio website through GitHub Pages.
